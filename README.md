@@ -1,7 +1,7 @@
 # Trabalhando em Equipe com GIT
 
 ## Como fazer?
-
+## teste 
 Nessa entrega vocês terão de usar todo seu conhecimento em GIT para trabalhar em equipe.
 
 Vocês deverão descrever um pouco mais sobre o seu relacionamento com a TI. Comente algo como "Escolhi a TI porque..." ou "Meu conhecimento em TI é..." para que seus colegas entendam seu relacionamento com a área.
